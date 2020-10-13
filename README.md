@@ -12,16 +12,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about android & tech related stuffs
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: Nothing !!
-
-### Spotify Playing 🎧
-
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="rahulhgdev Spotify Playing" width="350" />](https://open.spotify.com/album/5aSpKgEu4wVmceYiYQLlZm?highlight=spotify:track:6rqFPiBjTTc1BEgIIFigUU)
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="rahulhgdev's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
-
-</details>
 -->
 
