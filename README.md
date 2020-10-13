@@ -10,5 +10,4 @@
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: Nothing !!
 
-### Spotify Playing 🎧
 
