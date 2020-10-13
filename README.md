@@ -11,6 +11,6 @@
 - ⚡ Fun fact: Nothing !!
  
 <summary>zap: GitHub Stats</summary>
-  <img src="https://github-readme-stats.vercel.app/api?username=rahulhgdev&show_icons=true&hide_border=true" />
+  <img align="left" alt="rahulhgdev's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=rahulhgdev&show_icons=true&hide_border=true" />
   
 
