@@ -1,6 +1,6 @@
 ### Hello World, I'm Rahul Gupta aka rahulhgdev 👋
 
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rahulhgdev&label=Profile%20views&color=129e00&style=plastic" alt="rahulhgdev" /> </p>
 
 - 🔭 I’m currently working on Android & Web Development
 - 🌱 I’m currently learning Flutter & React-js
