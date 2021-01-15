@@ -10,6 +10,8 @@
 - 💬 Ask me about android & tech related stuffs
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: Nothing !!
+
+<img align="right" alt="GIF" src="https://github.com/rahulhgdev/rahulhgdev/blob/main/rhl.gif" width="400px" />
  
 <details>
   <summary>:zap: GitHub Stats</summary>
