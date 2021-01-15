@@ -1,6 +1,6 @@
 <h1 align="center"> <img src="https://github.com/rahulhgdev/rahulhgdev/blob/main/hello.gif" alt="hello-gif"> <br >I'm <a href="https://www.linkedin.com/in/dheerajkotwani/">Rahul H Gupta</a>👨‍💻</h1>
 <hr>
-[![Twitter Badge](https://img.shields.io/twitter/url?style=social&url=rahulhgdev)](https://twitter.com/rahulhgdev)
+[![Twitter Badge](https://img.shields.io/twitter/url?label=rahulhgdev&url=https%3A%2F%2Ftwitter.com%2Frahulhgdev)](https://twitter.com/rahulhgdev)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahulhgdev&label=Profile%20views&color=129e00&style=plastic" alt="rahulhgdev" /> </p>
 
 - 🔭 I’m currently working on Android & Web Development
