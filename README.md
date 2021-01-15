@@ -1,3 +1,5 @@
+<h1 align="center"> <img src="https://github.com/dheerajkotwani/dheerajkotwani/blob/master/hello.gif" alt="hello-gif"> <br >I'm <a href="https://www.linkedin.com/in/dheerajkotwani/">Rahul H Gupta</a>👨‍💻</h1>
+
 ### Hello World, I'm Rahul Gupta aka rahulhgdev 👋
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahulhgdev&label=Profile%20views&color=129e00&style=plastic" alt="rahulhgdev" /> </p>
