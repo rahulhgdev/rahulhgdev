@@ -25,7 +25,7 @@
 <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/html-5.svg" alt="HTML-5" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/css-3.svg" alt="CSS" width="40" height="40"/> 
 <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/javascript.svg" alt="Javascript" width="40" height="40"/> 
-<img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/mysql.svg" alt="My-SQL" width="40" height="40"/>
+<img src="https://github.com/gilbarbara/logos/blob/master/logos/python.svg" alt="Python" width="40" height="40"/>
 <img src="https://github.com/gilbarbara/logos/blob/master/logos/django.svg" alt="djnago" width="40" height="40"/> 
 <img src="https://github.com/gilbarbara/logos/blob/master/logos/python.svg" alt="python" width="40" height="40"/>  
 <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/firebase.svg" alt="Firebase" width="40" height="40"/> 
