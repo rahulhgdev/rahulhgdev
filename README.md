@@ -1,6 +1,6 @@
 <h1 align="center"> <img src="https://github.com/rahulhgdev/rahulhgdev/blob/main/hello_1.gif" alt="hello-gif"> <br >I'm <a href="https://twitter.com/rahulhgdev/">Rahul H Gupta</a>👨‍💻</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rahulhgdev&label=Profile%20views&color=129e00&style=plastic" alt="rahulhgdev" /> </p>
+
 
 <img align="right" alt="GIF" src="https://github.com/rahulhgdev/rahulhgdev/blob/main/rhl2.gif" width="400px" />
 
