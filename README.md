@@ -14,7 +14,7 @@
   <summary>:zap: GitHub Stats</summary>
   </details>
 <details>
- <summary>:zap: Language & Tools</summary>
+ <summary>:zap: Languages & Tools</summary>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rahulhgdev&show_icons=true&locale=en&layout=compact" alt="rahulhgdev" /></p>
 </details>
 <p align="center">
