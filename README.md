@@ -12,6 +12,7 @@
 
 <details>
   <summary>:zap: GitHub Stats</summary>
+  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rahulhgdev&show_icons=true&locale=en" alt="rahulhgdev" /></p>
   </details>
 <details>
  <summary>:zap: Languages & Tools</summary>
