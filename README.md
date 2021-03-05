@@ -22,7 +22,7 @@
 <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/android-icon.svg" alt="Android" width="40" height="40"/> 
 <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/java.svg" alt="Java" width="40" height="40"/> 
 <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/c-plusplus.svg" alt="C++" width="40" height="40"/> 
-<img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/html-5.svg" alt="HTML-5" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/html-5.svg" alt="HTML5" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/css-3.svg" alt="CSS" width="40" height="40"/> 
 <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/javascript.svg" alt="Javascript" width="40" height="40"/> 
 <img src="https://github.com/gilbarbara/logos/blob/master/logos/git.svg" alt="Git" width="40" height="40"/> 
