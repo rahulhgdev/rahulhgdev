@@ -4,7 +4,6 @@
 
 <img align="right" alt="GIF" src="https://github.com/rahulhgdev/rahulhgdev/blob/main/rhl2.gif" width="400px" />
 
-- 🔭 I’m currently working on Android & Web Development
 - 🌱 I’m currently learning Data Science
 - 👯 I’m looking to collaborate with other contributor.
 - 😄 Pronouns: He/His
