@@ -29,15 +29,8 @@
 </p>
 </details>
 
-
 <h2 align="center">Git-Hub Streak !! :fire:</h2> 
 <p align="center">
 <img align="Center" src="https://github-readme-streak-stats.herokuapp.com/?user=rahulhgdev&)" alt="Rahul Gupta" />
 </p>
-
-
-
-[![Contributions Graph](https://activity-graph.herokuapp.com/graph?username=rahulhgdev&bg_color=000000&color=FFFFFF&line=FFFFFF&point=00FF00)](https://github.com/rahulhgdev/github-readme-activity-graph)
-
-
 
