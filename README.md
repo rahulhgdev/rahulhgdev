@@ -28,9 +28,6 @@
 <img src="https://github.com/gilbarbara/logos/blob/master/logos/jupyter.svg" alt="Jupyter" width="40" height="40"/>
 </p>
 </details>
-</br></br></br>
-
-<h2 align="center">Git-Hub Streak !! :fire:</h2> 
 <p align="center">
 <img align="Center" src="https://github-readme-streak-stats.herokuapp.com/?user=rahulhgdev&)" alt="Rahul Gupta" />
 </p>
