@@ -25,7 +25,7 @@
 <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/javascript.svg" alt="JavaScript" width="40" height="40"/> 
 <img src="https://github.com/gilbarbara/logos/blob/master/logos/git.svg" alt="Git" width="40" height="40"/> 
 <img src="https://github.com/gilbarbara/logos/blob/master/logos/python.svg" alt="Python" width="40" height="40"/> 
-<img src="https://github.com/gilbarbara/logos/blob/master/logos/jupyter.svg" alt="Jupyter" width="40" height="40"/>
+<img src="https://github.com/gilbarbara/logos/blob/master/logos/jupyter.svg" alt="Jupy ter" width="40" height="40"/>
 </p>
 </details>
 
