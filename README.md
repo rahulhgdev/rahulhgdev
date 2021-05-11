@@ -15,7 +15,6 @@
   </details>
 <details>
  <summary>:zap: Languages & Tools</summary>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rahulhgdev&show_icons=true&locale=en&layout=compact" alt="rahulhgdev" /></p>
 <p align="center">
 <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/android-icon.svg" alt="Android" width="40" height="40"/> 
 <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/java.svg" alt="Java" width="40" height="40"/> 
@@ -27,6 +26,7 @@
 <img src="https://github.com/gilbarbara/logos/blob/master/logos/python.svg" alt="Python" width="40" height="40"/> 
 <img src="https://github.com/gilbarbara/logos/blob/master/logos/jupyter.svg" alt="Jupy ter" width="40" height="40"/>
 </p>
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rahulhgdev&show_icons=true&locale=en&layout=compact" alt="rahulhgdev" /></p>
 </details>
 
 
