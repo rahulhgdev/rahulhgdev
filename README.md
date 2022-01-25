@@ -26,7 +26,6 @@
 <img src="https://github.com/gilbarbara/logos/blob/master/logos/python.svg" alt="Python" width="40" height="40"/> 
 <img src="https://github.com/gilbarbara/logos/blob/master/logos/jupyter.svg" alt="Jupyter" width="40" height="40"/>
 </p>
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rahulhgdev&show_icons=true&locale=en&layout=compact" alt="rahulhgdev" /></p>
 </details>
 
 
