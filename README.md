@@ -11,7 +11,8 @@
 
 <details>
   <summary>:zap: GitHub Stats</summary>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rahulhgdev&show_icons=true&locale=en" alt="rahulhgdev"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=the-iconic-rihan
+&show_icons=true&locale=en" alt="rahulhgdev"/>
   </details>
 <details>
  <summary>:zap: Languages & Tools</summary>
