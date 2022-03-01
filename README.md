@@ -11,7 +11,7 @@
 
 <details>
   <summary>:zap: GitHub Stats</summary>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=the-iconic-rihan
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rahulhgdev
 &show_icons=true&locale=en" alt="rahulhgdev"/>
   </details>
 <details>
