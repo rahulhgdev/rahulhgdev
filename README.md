@@ -13,7 +13,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=rahulhgdev&show_icons=true&locale=en" alt="rahulhgdev"/>
   </details>
 <details>
- <summary>:zap: Languages & Tools</summary>
+ <summary>:zap: Languages and Tools</summary>
 <p align="center">
 <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/android-icon.svg" alt="Android" width="40" height="40"/> 
 <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/java.svg" alt="Java" width="40" height="40"/> 
