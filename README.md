@@ -26,6 +26,6 @@
 <img src="https://github.com/gilbarbara/logos/blob/master/logos/jupyter.svg"  alt="Jupyter" width="40" height="40"/>
 <img src="https://github.com/gilbarbara/logos/blob/master/logos/react.svg"  alt="ReactJs" width="40" height="40"/>
 <img src="https://github.com/gilbarbara/logos/blob/master/logos/nodejs.svg"  alt="NodeJs" width="40" height="40"/>
-<img sec="https://github.com/gilbarbara/logos/blob/master/logos/mongodb.svg"  alt="NodeJs" width="40" height="40"/>
+<img sec="https://github.com/gilbarbara/logos/blob/master/logos/mongo.svg"  alt="NodeJs" width="40" height="40"/>
 </p>
 </details>
